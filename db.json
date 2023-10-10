@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "name": "rty",
+      "email": "rutu@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "yash",
+      "email": "yash@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "rushi",
+      "email": "rushi@gmail.com",
+      "password": "1223445",
+      "id": 4
+    },
+    {
+      "name": "deep",
+      "email": "deep@gmail.com",
+      "password": "deep1234",
+      "id": 5
+    },
+    {
+      "name": "aa",
+      "email": "a@gmail.com",
+      "password": "89890",
+      "id": 6
+    },
+    {
+      "name": "uu",
+      "email": "uu@gmail.com",
+      "password": "123444",
+      "id": 12
+    }
+  ]
+}

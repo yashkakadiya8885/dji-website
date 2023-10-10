@@ -1,0 +1,129 @@
+#app {
+  height: 100%;
+}
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.main-banner-1 {
+  background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/6380ad4dd75bf6ffaf1687363362a4de.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.main-banner-2 {
+  background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/a9b0636a0208b6467b18abcf6f8bb06d.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.main-banner-3 {
+  background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/e64d421632de007395222eb0cce98fe7.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.main-banner-4 {
+  background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/81b484ebfa1d073281c2e2ee6eca7cd1.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.main-banner-5{
+  background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/943efdcdbb68ccad90c65d7a8b9f38ed@origin.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.main-banner-6{
+  background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/5469e09498cb5bec60e052e587616a1c@origin.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.main-banner-7{
+  background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/6380ad4dd75bf6ffaf1687363362a4de.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.buttons button{
+  background-color: transparent;
+}
+.icon-main {
+  padding-left: 65px;
+}
+.btn{
+  color: #fff;
+  border: 1px solid #fff;
+}
+.text-1{
+  color: #fff;
+}
+.signup-main{
+  background-image: url(https://account.djicdn.com/img/banner-04.5cd6cc8d.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}
+.signup-text-main{
+  background-color: #fff;
+  width: fit-content;
+  height: fit-content;
+  margin: 0 auto;
+}
+.form-main{
+  background-color: #fff;
+  position: fixed;
+  top: 45%;
+  right: 38%;
+}

@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+#main-nav{
+    display: flex;
+    align-items: center;
+}
+.logo-main{
+    margin: 20px;
+}
+.image-logo{
+    width: 100%;
+}
+.main-menu{
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.link {
+    text-decoration: none;
+    color: black;
+}
+.icon-main {
+    display: flex;
+    align-items: center;
+    width: 282px;
+}
+.icon{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.icon-button {
+    height: 32px;
+    color: #fff;
+    position: relative;
+    font-weight: 400;
+    transition: background-color .3s ease;
+    word-break: break-all;
+    max-width: initial;
+    background-color: #0070d5;
+    background-image: url("../shop.svg")!important;
+    object-fit: cover;
+    background-size: 12px 12px!important;
+    background-position: 8px 50%!important;
+    background-repeat: no-repeat!important;
+    padding-left: 34px;
+    border-radius: 88rem;
+    border: none;
+    font-size: 14px;
+    padding:0px 25px;
+}
+.icon-3 button{
+    margin-left: 20px;
+}

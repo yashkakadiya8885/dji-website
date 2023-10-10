@@ -39,36 +39,94 @@ const Home = () => {
         </SwiperSlide>
         <SwiperSlide>
           <div className='main-banner-2'>
-          
+          <div className='text-main'>
+              <div className='text'>
+                <p className='text-1'>All-In-One Mini Drone</p>
+                <h1>Dji Mini 4 <span>PRO</span></h1>
+                <h3>Mini to the Max</h3>
+              </div>
+              <div className='buttons'>
+                <button className='btn'>Learn More <span><MdKeyboardArrowRight/></span></button>
+                <button className='btn'> Buy Now <span></span><MdKeyboardArrowRight/></button>
+              </div>
+            </div>
           </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className='main-banner-3'>
-
+          <div className='text-main'>
+              <div className='text'>
+                <p className='text-1'>All-In-One Mini Drone</p>
+                <h1>Dji Mini 4 <span>PRO</span></h1>
+                <h3>Mini to the Max</h3>
+              </div>
+              <div className='buttons'>
+                <button className='btn'>Learn More <span><MdKeyboardArrowRight/></span></button>
+                <button className='btn'> Buy Now <span></span><MdKeyboardArrowRight/></button>
+              </div>
+            </div>
           </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className='main-banner-4'>
-
+          <div className='text-main'>
+              <div className='text'>
+                <p className='text-1'>All-In-One Mini Drone</p>
+                <h1>Dji Mini 4 <span>PRO</span></h1>
+                <h3>Mini to the Max</h3>
+              </div>
+              <div className='buttons'>
+                <button className='btn'>Learn More <span><MdKeyboardArrowRight/></span></button>
+                <button className='btn'> Buy Now <span></span><MdKeyboardArrowRight/></button>
+              </div>
+            </div>
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className='main-banner-5'></div>
+          <div className='main-banner-5'>
+          <div className='text-main'>
+              <div className='text'>
+                <p className='text-1'>All-In-One Mini Drone</p>
+                <h1>Dji Mini 4 <span>PRO</span></h1>
+                <h3>Mini to the Max</h3>
+              </div>
+              <div className='buttons'>
+                <button className='btn'>Learn More <span><MdKeyboardArrowRight/></span></button>
+                <button className='btn'> Buy Now <span></span><MdKeyboardArrowRight/></button>
+              </div>
+            </div>
+          </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className='main-banner-6'>
-
+          <div className='text-main'>
+              <div className='text'>
+                <p className='text-1'>All-In-One Mini Drone</p>
+                <h1>Dji Mini 4 <span>PRO</span></h1>
+                <h3>Mini to the Max</h3>
+              </div>
+              <div className='buttons'>
+                <button className='btn'>Learn More <span><MdKeyboardArrowRight/></span></button>
+                <button className='btn'> Buy Now <span></span><MdKeyboardArrowRight/></button>
+              </div>
+            </div>
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className='main-banner-7'></div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className='main-banner-8'>
-
+          <div className='main-banner-7'>
+          <div className='text-main'>
+              <div className='text'>
+                <p className='text-1'>All-In-One Mini Drone</p>
+                <h1>Dji Mini 4 <span>PRO</span></h1>
+                <h3>Mini to the Max</h3>
+              </div>
+              <div className='buttons'>
+                <button className='btn'>Learn More <span><MdKeyboardArrowRight/></span></button>
+                <button className='btn'> Buy Now <span></span><MdKeyboardArrowRight/></button>
+              </div>
+            </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>Slide 9</SwiperSlide>
       </Swiper>
     </div>
   )

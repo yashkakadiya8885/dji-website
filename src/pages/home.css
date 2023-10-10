@@ -121,3 +121,9 @@ body {
   height: fit-content;
   margin: 0 auto;
 }
+.form-main{
+  background-color: #fff;
+  position: fixed;
+  top: 45%;
+  right: 38%;
+}

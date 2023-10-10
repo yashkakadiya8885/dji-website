@@ -36,7 +36,8 @@ const Signup = () => {
       <div className="form-main">
         <div className="form-logo"></div>
         <div className="signup-text-main">
-          <form onSubmit={handlesubmit}>
+          <form onSubmit={handlesubmit} className="form-main">
+            <div className="input-main">
             <h1>Create Your DJI Account</h1>
             <label>Name</label>
             <br />
@@ -66,6 +67,7 @@ const Signup = () => {
             />
             <br />
             <input type="submit" value="Signup" />
+            </div>
           </form>
         </div>
       </div>

@@ -35,6 +35,242 @@
       "email": "uu@gmail.com",
       "password": "123444",
       "id": 12
+    },
+    {
+      "name": "parth",
+      "email": "parth@gmail.com",
+      "password": "12345",
+      "id": 13
+    },
+    {
+      "name": "harsh",
+      "email": "h@gmail.com",
+      "password": "12345",
+      "id": 14
+    },
+    {
+      "name": "harsh",
+      "email": "h@gmail.com",
+      "password": "12345",
+      "id": 15
+    }
+  ],
+  "product":[
+    {
+      "id" : 1,
+      "name": "Dji Air 3",
+      "price": "8000/-",
+      "category": "Dji Air Series",
+      "image": "https://www2.djicdn.com/cms/uploads/a656cc79725b55d02616072360469ffd.png",
+      "description":"Medium Tele & Wide-Angle Dual Primary Cameras | 46-Min Max Flight Time | Omnidirectional Obstacle Sensing | Dual-Camera 48MP Photos | Dual-Camera 4K/60fps HDR Videos | O4 HD Video Transmission"
+    },
+    {
+      "id" : 2,
+      "name": "Dji Air 2S",
+      "price": "12,000/-",
+      "category": "Dji Air Series",
+      "image": "https://www5.djicdn.com/cms/uploads/2808f1b40ded0555f0378af97cd59a45.png",
+      "description":"Featuring a 1-inch CMOS sensor, powerful autonomous functions, and a compact body weighing less than 600 g, DJI Air 2S is the ultimate drone for aerial photographers on the move. Take this all-in-one aerial powerhouse along anywhere to experience and record your world in stunning detail."
+    },
+    {
+      "id" : 3,
+      "name": "Mavic Air ",
+      "price": "11,000/-",
+      "category": "Dji Air Series",
+      "image": "https://www1.djicdn.com/cms/uploads/3be8aaab8409e1575c6363658007b517.png",
+      "description":"32 MP Sphere Panoramas | Foldable & Portable | 3-Axis Gimbal & 4K Camera | 3-Directional Environment Sensing | SmartCapture | 21-Minute Flight Time"
+    },
+    {
+      "id" : 4,
+      "name":"DJI Mini 4 Pro",
+      "category":"DJI Mini Series",
+      "price":"4000/-",
+      "image":"https://www2.djicdn.com/cms/uploads/892e39b4b76dc5a83b267ed12ce69b97.png",
+      "description":"Under 249 g | 4K/60fps HDR True Vertical Shooting | Omnidirectional Obstacle Sensing | Extended Battery Life | 20km FHD Video Transmission | ActiveTrack 360°"
+    },
+    {
+      "id" : 5,
+      "name":"DJI Mini 3 Pro",
+      "category":"DJI Mini Series",
+      "price":"2000/-",
+      "image":"https://www2.djicdn.com/cms/uploads/892e39b4b76dc5a83b267ed12ce69b97.png",
+      "description":"The mini-sized, mega-capable DJI Mini 3 Pro is just as powerful as it is portable. Weighing less than 249g and with upgraded safety features, it's not only regulation-friendly, it's also the safest in its series. With a 1/1.3-inch sensor and top-tier features, it redefines what it means to fly Mini."
+    },
+    {
+      "id":6,
+      "name":"DJI Mini 3",
+      "category":"DJI Mini Series",
+      "price":"6000/-",
+      "imag":"https://www4.djicdn.com/cms/uploads/0e65b98eaee5cad6f74196e9594b99cd.png",
+      "description":"Under 249 g | Extended Battery Life | 4K HDR Video | True Vertical Shooting | Intelligent Features | 38kph (Level 5) Wind Resistance"
+    },
+    {
+      "id":7,
+      "name":"DJI Mini 2 SE",
+      "category":"DJI Mini Series",
+      "price":"3000/-",
+      "image":"https://www2.djicdn.com/cms/uploads/019568d17fe5e90cac760a91a70b3c56.png",
+      "description":"Under 249 g | Easy To Use | 10km Video Transmission | Intelligent Modes | 31-Min Max Flight Time | 38kph (Level 5) Wind Resistance"
+    },
+    {
+      "id":8,
+      "name":"DJI Mini SE",
+      "category":"DJI Mini Series",
+      "price":"4000/-",
+      "image":"https://www3.djicdn.com/cms/uploads/c420db08ef0fe356cd929b1dca0d6af1.png",
+      "description":"< 249 g Ultralight | 30-Min Max. Flight Time | 4km HD Video Transmission | Vision Sensor + GPS Precise Hover | 3-Axis Gimbal 2.7K Camera | Simplified Recording & Editing"
+    },
+    {
+      "id":9,
+      "name":"DJI Goggles Integra",
+      "price":"10,000/-",
+      "category":"DJI Avata Series",
+      "image":"https://www2.djicdn.com/cms/uploads/8f15e49523ca21d4401c02048df03a15.png",
+      "description":"Lightweight and Portable | Integrated Design | Micro-OLED Screens | DJI O3+ Video Transmission | HD Low-Latency"
+    },
+    {
+      "id":10,
+      "name":"DJI Avata",
+      "price":"9000/-",
+      "category":"DJI Avata Series",
+      "image":"https://www4.djicdn.com/cms/uploads/7a4013b046ea008a2beb1f5f6ca74253.png",
+      "description":"Immersive Flight | Intuitive Control | 4K Stabilized Video | Palm-Sized and Agile | Built-in Propeller Guard | DJI O3+ Transmission"
+    },
+    {
+      "id":11,
+      "name":"DJI Goggles 2",
+      "price":"20,000/-",
+      "category":"DJI Avata Series",
+      "image":"https://www2.djicdn.com/cms/uploads/8f15e49523ca21d4401c02048df03a15.png",
+      "description":"Micro-OLED Screens｜Adjustable Diopters｜DJI O3+ Video Transmission｜Wireless Streaming"
+    },
+    {
+      "id":12,
+      "name":"Zenmuse X7",
+      "price":"3000/-",
+      "category":"DJI Inspire Series",
+      "image":"https://www5.djicdn.com/cms/uploads/8cbfd6d574da24bef2d08a50550edb33.png",
+      "description":"The Zenmuse X7 is a compact Super 35 camera with an integrated gimbal made for high-end filmmaking, delivering stunning resolution and image quality."
+    },
+    {
+      "id":13,
+      "name":"Dji Inspire",
+      "price":"30,000/-",
+      "category":"DJI Inspire Series",
+      "image":"https://www4.djicdn.com/cms/uploads/133dbcbded142391e8ed57d0fcd57ac8.png",
+      "description":"DJI's most advanced technologies in one platform."
+    },
+    {
+      "id":14,
+      "name":"DJI Goggles RE",
+      "price":"50,000/-",
+      "category":"DJI FPV Series",
+      "image":"https://www4.djicdn.com/cms/uploads/f3e6cfddacfeb2cd1f1902f5091db013.png",
+      "description":"DJI Goggles Racing Edition deliver smooth, clear video and thrills of drone racing like never before."
+    },
+    {
+        "id":15,
+        "name":"DJI Digital FPV System",
+        "price":"60,000/-",
+        "category":"DJI FPV Series",
+        "image":"https://www1.djicdn.com/cms/uploads/25ce704882930264a4e733766e5eb1e4.png",
+        "description":"The DJI Digital FPV System was designed for the drone racing industry. It consists of the DJI FPV Air Unit Module, DJI FPV Camera, DJI FPV Goggles, and DJI FPV Remote Controller (RC), all of which are packed with powerful features and serve a significant role in the development of our HD Low Latency FPV system. We have redefined drone racing, delivering lower latency rates, stunning HD resolution, and, most importantly, an unforgettable FPV flying experience."
+    },
+    {
+      "id":16,
+      "name":"DJI O3 Air Unit",
+      "price":"70,000/-",
+      "category":"DJI FPV Series",
+      "image":"https://www1.djicdn.com/cms/uploads/877f02933303036ab430c998d2eecf3d.png",
+      "description":"30 ms 10 km Digital Video Transmission｜1080p/100fps H.265 Video Transmission ｜4K/60fps Video｜155° Super-Wide FOV"
+    },
+    {
+      "id":17,
+      "name":"Phantom FC40",
+      "price":"33,000/-",
+      "category":"DJI Phantom Series",
+      "image":"https://www3.djicdn.com/cms/uploads/d4cec9ece35cbf18deb6b8168fa563cd.png",
+      "description":"Features a built-in DJI designed smart camera, which supports 720p/30fps."
+    },
+    {
+      "id":18,
+      "name":"Phantom 1",
+      "price":"31,000/-",
+      "category":"DJI Phantom Series",
+      "image":"https://www5.djicdn.com/cms/uploads/20e558105eb1306739ef525ba73352c5.png",
+      "description":"DJI’s first ready-to-fly quadcopter."
+    },
+    {
+      "id":19,
+      "name":"Phantom 2",
+      "price":"41,000/-",
+      "category":"DJI Phantom Series",
+      "image":"https://www2.djicdn.com/cms/uploads/ad278cdcbb6bd1160b70073d1814732f.png",
+      "description":"Compact drone with DJI Zenmuse compatibility."
+    },
+    {
+      "id":20,
+      "name":"Phantom 2 Vision",
+      "price":"45,000/-",
+      "category":"DJI Phantom Series",
+      "image":"https://www1.djicdn.com/cms/uploads/3fcb8ee5ba73bc5257dd8eacf823e24a.png",
+      "description":"Easy-to-fly aerial system with a built-in camera."
+    },
+    {
+      "id":21,
+      "name":"Phantom 3 4K",
+      "price":"50,000/-",
+      "category":"DJI Phantom Series",
+      "image":"https://www2.djicdn.com/cms/uploads/ae48c5d452a03517205445e2c098f7d3.png",
+      "description":"The best Ultra HD drone for the money, capable of capturing 4K video."
+    },
+    {
+      "id":22,
+      "name":"Phantom 3 Professional",
+      "price":"61,500/-",
+      "category":"DJI Phantom Series",
+      "image":"https://www2.djicdn.com/cms/uploads/31d49443c6f8f137c8ddeb2b5ca3f45f.png",
+      "description":"Professional 4K quality filmmaking in an affordable, easy to carry package."
+    },
+    {
+      "id":23,
+      "name":"Spark",
+      "price":"22,500/-",
+      "category":"Spark Series",
+      "image":"https://www5.djicdn.com/cms/uploads/57d956b301aecf75338a7a6566ec1ce2.png",
+      "description":"Intelligent gesture controls and obstacle sensing."
+    },
+    {
+      "id":24,
+      "name":"DJI RC Pro",
+      "price":"10,500/-",
+      "category":"DJI RC Series",
+      "image":" https://www5.djicdn.com/cms/uploads/2f7d3f9049ab1e4d86379b3ad8402556.png",
+      "description":"DJI RC Pro is a professional-level remote controller that features a powerful next-generation processor and O3+ video transmission technology. It also uses the same control sticks as the DJI FPV drone to provide a smoother control experience, bringing aerial photography to new heights."
+    },
+    {
+      "id":25,
+      "name":"DJI RC",
+      "price":"5500/-",
+      "category":"DJI RC Series",
+      "image":"https://www1.djicdn.com/cms/uploads/bf281d2bdcc9ecb394c4dbc05473b980.png",
+      "description":"DJI RC is a remote controller that delivers an exceptional operating experience. With a lightweight body, FHD display, and ultra-long battery life, it also features new dual-spring control sticks for more comfortable flying and supports the advanced DJI O3+ video transmission technology. With its powerful functionality, aerial creation is more convenient than ever."
+    },
+    {
+      "id":26,
+      "name":"DJI RC Motion 2",
+      "price":"15,000/-",
+      "category":"Dji RC Series",
+      "image":"https://www3.djicdn.com/cms/uploads/14ebfa37f2242f3338211894d36e1ff9.png",
+      "description":"Immersive Motion Control | Multidirectional Operation | Multifunctional and Intuitive"
+    },
+    {
+      "id":27,
+      "name":"DJI RC 2",
+      "price":"19,000/-",
+      "category":"Dji RC Series",
+      "image":"https://www4.djicdn.com/cms/uploads/37e89f16becae05286caf4888a7c88b6.png",
+      "description":"Next-Gen Processor | Quick Start | O4 Video Transmission | 2T4R Antennas | 5.5-inch FHD Screen | Light and Compact"
     }
   ]
 }

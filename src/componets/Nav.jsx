@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Nav.css";
 import { BiSearch , BiUser   } from "react-icons/bi";
+// import { Sign } from "crypto";
+// import Signin from "../pages/Signin";
 
 const Nav = () => {
   return (
@@ -41,7 +43,7 @@ const Nav = () => {
             <i className="icon"><BiSearch/></i>
         </div>
         <div className="icon-2">
-           <Link to="signup">
+           <Link to="/signup">
            <i className="icon"><BiUser/></i>
            </Link>
         </div>

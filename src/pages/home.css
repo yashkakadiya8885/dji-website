@@ -45,7 +45,18 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 100vh;
+  height: 90vh;
+  padding-top: 50px;
+  color: #fff;
+}
+.text,
+p,
+h1,
+h3 {
+  padding-top: 10px;
+}
+.btn-2 {
+  margin-left: 10px;
 }
 .main-banner-2 {
   background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/a9b0636a0208b6467b18abcf6f8bb06d.jpg);
@@ -53,7 +64,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 100vh;
+  height: 90vh;
+  padding-top: 50px;
+  color: #fff;
 }
 .main-banner-3 {
   background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/e64d421632de007395222eb0cce98fe7.jpg);
@@ -61,7 +74,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 100vh;
+  height: 90vh;
+  padding-top: 50px;
+  color: #fff;
 }
 .main-banner-4 {
   background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/81b484ebfa1d073281c2e2ee6eca7cd1.jpg);
@@ -69,61 +84,178 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 100vh;
+  height: 90vh;
+  padding-top: 50px;
+  color: #fff;
 }
-.main-banner-5{
+.main-banner-5 {
   background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/943efdcdbb68ccad90c65d7a8b9f38ed@origin.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 100vh;
+  height: 90vh;
+  padding-top: 50px;
+  color: #fff;
 }
-.main-banner-6{
+.main-banner-6 {
   background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/5469e09498cb5bec60e052e587616a1c@origin.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 100vh;
+  height: 90vh;
+  padding-top: 50px;
+  color: #fff;
 }
-.main-banner-7{
+.main-banner-7 {
   background-image: url(https://dji-official-fe.djicdn.com/cms/uploads/6380ad4dd75bf6ffaf1687363362a4de.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 100vh;
+  height: 90vh;
+  padding-top: 50px;
+  color: #fff;
 }
-.buttons button{
+.buttons button {
   background-color: transparent;
 }
 .icon-main {
   padding-left: 65px;
 }
-.btn{
+.btn,
+.btn-2 {
   color: #fff;
   border: 1px solid #fff;
+  padding: 5px;
+  border-radius: 100px;
+  margin-top: 10px;
 }
-.text-1{
+.text-1 {
   color: #fff;
 }
-.signup-main{
+.signup-main {
   background-image: url(https://account.djicdn.com/img/banner-04.5cd6cc8d.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   height: 90vh;
+  padding-top: 4%;
 }
-.signup-text-main{
-  background-color: #fff;
+.signup-text-main {
   width: fit-content;
-  height: fit-content;
+  padding: 20px;
   margin: 0 auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
-.form-main{
-  background-color: #fff;
-  position: fixed;
-  top: 45%;
-  right: 38%;
+.toggel {
+  color: #fff;
+}
+label {
+  margin-top: 20px;
+}
+input {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: #a9b2b2;
+  width: 200px;
+  color: aliceblue;
+}
+input::placeholder {
+  color: #ffffff;
+}
+.title {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 600;
+  padding-top: 24px;
+  margin-bottom: 15px;
+}
+.input-heading {
+  text-align: start;
+  margin-bottom: -16px;
+  margin-top: 10px;
+  padding-left: 44px;
+  font-size: 16px;
+  padding-bottom: 5px;
+}
+.login-main {
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 20px;
+  margin: 0 auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  backdrop-filter: blur(2px);
+}
+.form-logo {
+  background-image: url(../logo-2.jpeg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100px;
+}
+.s-btn {
+  width: 100px;
+  margin-top: 10px;
+}
+.log-in {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.log-main {
+  background-image: url(https://account.djicdn.com/img/banner-02.459fa6aa.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}
+/* product css */
+.main-prod-div {
+  background-color: #f2f2f2;
+  margin: 10px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+.p-div {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.p-image {
+  width: 300px;
+  height: 300px;
+}
+.p-nav-img {
+  width: 100px;
+  height: 100px;
+}
+.p-nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+.p-text span {
+  font-size: 16px;
+  font-weight: 800;
+}
+.p-text h2,
+h5,
+h4 {
+  padding-top: 10px;
+  font-size: 20px;
+}
+.p-btn {
+  margin-top: 14px;
+  border: none;
+  border-bottom: 1px solid #000;
+  padding-bottom: 0px;
+  border-width: content;
+  letter-spacing: 2px;
+  font-size: 17px;
 }
